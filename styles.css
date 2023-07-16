@@ -71,6 +71,9 @@ select {
     appearance: none; 
     
   }
+select:focus {
+    outline: none;
+}
   
 .header-content{
     position: absolute;
